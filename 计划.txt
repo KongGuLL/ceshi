@@ -1,0 +1,7 @@
+＝＝＝
+1 前端 ：Mobile前端开发（  WEUI, Material design (https://www.getmdl.io/)  )
+2 UE设计软件 Axure
+3 必学：Python 
+4 开发环境： ubuntu / vim 编辑器
+5 数据库： MySQL, Mongo DB
+6 推荐学一门： Android 开发 ／ iOS开发
